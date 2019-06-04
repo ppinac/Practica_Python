@@ -1,0 +1,10 @@
+abcdefghijklmn�opqrstuvwxyz  ABCDEFGHIJKLMN�OPQRSTUVWXYZ
+0123456789 _+-.,!@#$%^&*();\/|<>"'
+1234 -98.7 3.141 . 6180 9,000 +42
+555.123.4567  +1-(800)-(555)-(2468)
+foo@demo.net   bar.ba@test.co.uk
+www.demo.com  http://foo.co.uk/
+htt://regexr.com/foo.html?q=bar
+https://mediatemple.net
++1-(800)-(555)-(2467)
++1-(800)-(555)-(2445)
