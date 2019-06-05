@@ -3,6 +3,7 @@
 #buscar entrada por fecha
 #opcion para editar entrada
 #registrar entrada de diario
+#prueba de cambio por web
 from peewee import *
 from collections  import OrderedDict
 import datetime
